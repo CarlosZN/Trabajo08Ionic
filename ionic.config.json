@@ -1,5 +1,7 @@
 {
   "name": "app08ionic",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
